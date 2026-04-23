@@ -147,6 +147,7 @@ The crawler can be run periodically to keep the dataset current.
 * Use `login_example.py` as a template
 * The dataset is not included. It can be reconstructed with the crawler and valid credentials for the pedigree website.
 * Data reflects real-world entry and may change over time
+* Inbreeding calculation is based on an simplified calculation, it is not the exact scientific inbreeding coefficient.
 
 ---
 
