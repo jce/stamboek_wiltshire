@@ -1,0 +1,12 @@
+__*
+db.json.link
+*.swp
+fokkerlijst*
+db.json.backup
+*.txt
+*.csv
+db.json*
+crawler/login.py
+crawler/state.json*
+*jce*
+oddtools/
